@@ -1,4 +1,4 @@
-# iPhone Social Media Sharing App
+# iPhone Social Media Sharing App - Screenshots
 
 ## 1. Contents
 
